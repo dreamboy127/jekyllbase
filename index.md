@@ -2,7 +2,6 @@
 layout: layout
 title: Jekyll Base
 ---
-
 <div class="content">
   <div class="related">
     <ul>
