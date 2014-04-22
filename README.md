@@ -1,4 +1,0 @@
-jekyllbase
-==========
-
-base jekyll
